@@ -11,6 +11,7 @@ namespace LearningProjects
         public void LearnGit()
         {
             // first line added.
+            // second line added.
         }
     }
 }
