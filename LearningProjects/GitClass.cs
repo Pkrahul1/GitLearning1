@@ -17,6 +17,8 @@ namespace LearningProjects
 
             /// changes for feature2 branch
             // changes again
+
+            // changes for master
         }
     }
 }
